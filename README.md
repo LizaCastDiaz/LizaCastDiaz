@@ -3,9 +3,8 @@
     <h1 align="center">Hi I'm Liza</h1>
     <img align="center" src="./assets/hz5.gif" alt="">
    </div> -->
-
+<div align="center">
  <table cellpadding="0">
- <center>
   <tr style="padding: 0">
     <!-- NAme -->  
     <td>
@@ -14,9 +13,9 @@
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="100" src="./assets/hz5.gif"/></td>
   </tr>
-  </center>
+ 
 </table>
-
+</div>
 
 <div align="center">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=500&size=29&pause=1000&color=000000&center=true&width=550&lines=+I+am+a+Full+stack+web+developer;And+coding+is+my+new+passion" alt="Typing SVG" /></a>
