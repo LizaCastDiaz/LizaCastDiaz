@@ -4,7 +4,7 @@
     <img align="center" src="./assets/hz5.gif" alt="">
    </div> -->
 <div align="center">
- <table cellpadding="0">
+ <table border="none" cellpadding="0">
   <tr style="padding: 0">
     <!-- NAme -->  
     <td>
