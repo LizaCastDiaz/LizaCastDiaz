@@ -8,11 +8,10 @@
   <div align="center">
      <a href="" alt="Typing SVG" /></a>
   </div>
-  |
-  |
-  |
-  |
-  |
+ <br />
+<br />
+<br />
+<br />
 
  <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
@@ -70,9 +69,9 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
 </a>
 </div>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
 
  <table cellpadding="0">
   <tr style="padding: 0">
