@@ -3,15 +3,14 @@
     <h1 align="center">Hi I'm Liza</h1>
     <img align="center" src="./assets/hz5.gif" alt="">
    </div> -->
-
- <table cellpadding="0">
+<table style="border:0px solid black;margin-left:auto;margin-right:auto;"cellpadding="0">
   <tr style="padding: 0">
     <!-- NAme -->  
     <td>
      <h1 align="center">Hi I'm Liza</h1>
      </td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="./assets/hz5.gif"/></td>
+    <td valign="top"><img height="100" src="./assets/hz5.gif"/></td>
   </tr>
 </table>
 
