@@ -1,13 +1,9 @@
 <div align="center">
   
   <h1 align="center"><span><img align="center" width="100px" src="./assets/hz5.gif" alt=""></span></h1>
-  <br>
-  
   <h1 align="center">Hi, I am Liza!</h1>
-  <br>
-  <br>
-  
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=500&size=29&pause=1000&color=000000&center=true&width=550&lines=+I+am+a+Full+stack+web+developer;And+coding+is+my+new+passion" alt="Typing SVG" /></a>
+  <hr  align="center" width="10%">
  
 </div>
   <div align="center">
