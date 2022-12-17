@@ -3,16 +3,16 @@
     <h1 align="center">Hi I'm Liza</h1>
     <img align="center" src="./assets/hz5.gif" alt="">
    </div> -->
-<table style="border:none ;margin-left:auto;margin-right:auto;"cellpadding="0">
-  <tr style="border:none padding: 0">
-    <!-- NAme -->  
-    <td>
-     <h1 align="center">Hi I'm Liza</h1>
-     </td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="100" src="./assets/hz5.gif"/></td>
-  </tr>
-</table>
+<table style="margin-left:auto;margin-right:auto;"cellpadding="0">
+        <tr style="border:none">
+          <!-- NAme -->  
+          <td>
+           <h1 align="center">Hi I'm Liza</h1>
+           </td>
+          <!-- GitHub Top Language Card -->
+          <td valign="top"><img height="100" src="./assets/hz5.gif"/></td>
+        </tr>
+      </table>
 
 
 <div align="center">
