@@ -4,17 +4,16 @@
       <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=500&size=29&pause=1000&color=000000&center=true&width=550&lines=+I+am+a+Full+stack+web+developer;And+coding+is+my+new+passion" alt="Typing SVG" /></a>
   </div>
 
+
   <div align="center">
      <a href="" alt="Typing SVG" /></a>
   </div>
+  |
+  |
+  |
+  |
+  |
 
-  <div align="center" width="100px" height="100px">
-     
-  </div>
-
-
- 
- 
  <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
@@ -71,6 +70,8 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40" />
 </a>
 </div>
+<br>
+<br>
 <br>
 
  <table cellpadding="0">
