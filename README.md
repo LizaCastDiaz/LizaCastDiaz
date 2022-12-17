@@ -3,8 +3,8 @@
     <h1 align="center">Hi I'm Liza</h1>
     <img align="center" src="./assets/hz5.gif" alt="">
    </div> -->
-<table style="border:0px solid black;margin-left:auto;margin-right:auto;"cellpadding="0">
-  <tr style="padding: 0">
+<table style="border:none ;margin-left:auto;margin-right:auto;"cellpadding="0">
+  <tr style="border:none padding: 0">
     <!-- NAme -->  
     <td>
      <h1 align="center">Hi I'm Liza</h1>
