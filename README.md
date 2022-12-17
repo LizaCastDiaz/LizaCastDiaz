@@ -8,6 +8,10 @@
      <a href="" alt="Typing SVG" /></a>
   </div>
 
+  <div align="center" width="100px" height="100px">
+     
+  </div>
+
 
  
  
