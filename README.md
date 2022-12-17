@@ -1,5 +1,8 @@
 
-<h1 align="center">Hi I'm Liza</h1>
+ <div>
+    <h1 align="center">Hi I'm Liza</h1>
+    <img align="center" src="./assets/hz5.gif" alt="">
+   </div>
 <div align="center">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=roboto+mono&weight=500&size=29&pause=1000&color=000000&center=true&width=550&lines=+I+am+a+Full+stack+web+developer;And+coding+is+my+new+passion" alt="Typing SVG" /></a>
 </div>
@@ -77,7 +80,6 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizacastdiaz&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
-![5TMy](https://user-images.githubusercontent.com/74429096/208266558-70cbef2d-4319-48f7-b77a-de6f3a5f9d36.gif)
 
 
 
